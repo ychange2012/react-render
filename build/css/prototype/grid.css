@@ -1,0 +1,12 @@
+/*!
+ *  auth:  rwe
+ */
+.grid-footer
+ {
+	padding-top: 1.4em;
+    white-space: nowrap;
+}
+
+.grid-footer select {
+    display: inline-block;
+}
